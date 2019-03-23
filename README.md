@@ -13,4 +13,5 @@
         - show()方法展示
         
 ## 获取mysql实例
+- 数据库连接信息在Core/config/config.php中
 - Model.class.php中有方法getModel()用以获取mysql连接后的实例
